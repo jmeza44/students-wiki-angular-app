@@ -26,6 +26,9 @@ export class SerieDetailsComponent {
   }
 
   public get actorsList(): string {
-    return this.detailedSerie?.actors.map(actor => actor.name).join(', ') ?? 'None';
+    if (!this.detailedSerie) return "None";
+    if (this.detailedSerie.actors.length === 0) return "None";
+    if (this.detailedSerie.actors.every(actor => actor.name === "")) return "None";
+    return this.detailedSerie.actors.map(actor => actor.name.trim()).filter(name => name !== "").join(', ') ?? 'None';
   }
 }
