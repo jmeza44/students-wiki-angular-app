@@ -4,9 +4,17 @@ import { RouterModule, Routes } from '@angular/router';
 const routes: Routes = [
   {
     path: '',
+    pathMatch: 'full',
+    redirectTo: 'students'
+  },
+  {
+    path: 'students',
     loadChildren: () => import('./students/students.module').then(m => m.StudentsModule)
   },
-  { path: 'series', loadChildren: () => import('./series/series.module').then(m => m.SeriesModule) }
+  {
+    path: 'series',
+    loadChildren: () => import('./series/series.module').then(m => m.SeriesModule)
+  }
 ];
 
 @NgModule({

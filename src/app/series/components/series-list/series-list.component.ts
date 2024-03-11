@@ -16,7 +16,7 @@ export class SeriesListComponent implements OnInit {
 
   ngOnInit(): void {
     this.activatedRoute.paramMap.subscribe(param => {
-      this.studentId = Number(param.get('id'));
+      this.studentId = Number(param.get('studentId'));
       this.serieService.getSeries(this.studentId)
         .subscribe(series => {
           this.series = series;

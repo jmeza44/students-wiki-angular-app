@@ -5,11 +5,11 @@ import { SerieDetailsComponent } from './components/serie-details/serie-details.
 
 const routes: Routes = [
   {
-    path: '',
+    path: ':studentId',
     component: SeriesListComponent
   },
   {
-    path: ':id',
+    path: ':studentId/details/:serieId',
     component: SerieDetailsComponent
   },
 ];

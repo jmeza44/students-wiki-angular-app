@@ -12,24 +12,34 @@
     ],
     "favoriteSeries": [
       {
+        "id": 1,
         "name": "The big bang theory",
         "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
         "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Johnny Galecki",
+            "imagePath": "https://example.com/johnny_galecki.jpg"
+          },
+          {
+            "name": "Jim Parsons",
+            "imagePath": "https://example.com/jim_parsons.jpg"
           }
         ]
       },
       {
+        "id": 2,
         "name": "The Simpsons",
         "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
         "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Dan Castellaneta",
+            "imagePath": "https://example.com/dan_castellaneta.jpg"
+          },
+          {
+            "name": "Julie Kavner",
+            "imagePath": "https://example.com/julie_kavner.jpg"
           }
         ]
       }
@@ -48,13 +58,18 @@
     ],
     "favoriteSeries": [
       {
+        "id": 1,
         "name": "The Simpsons",
         "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
         "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Dan Castellaneta",
+            "imagePath": "https://example.com/dan_castellaneta.jpg"
+          },
+          {
+            "name": "Julie Kavner",
+            "imagePath": "https://example.com/julie_kavner.jpg"
           }
         ]
       }
@@ -71,24 +86,34 @@
     ],
     "favoriteSeries": [
       {
+        "id": 1,
         "name": "The big bang theory",
         "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
         "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Johnny Galecki",
+            "imagePath": "https://example.com/johnny_galecki.jpg"
+          },
+          {
+            "name": "Jim Parsons",
+            "imagePath": "https://example.com/jim_parsons.jpg"
           }
         ]
       },
       {
+        "id": 2,
         "name": "The Simpsons",
         "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
         "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Dan Castellaneta",
+            "imagePath": "https://example.com/dan_castellaneta.jpg"
+          },
+          {
+            "name": "Julie Kavner",
+            "imagePath": "https://example.com/julie_kavner.jpg"
           }
         ]
       }
@@ -102,24 +127,34 @@
     "hobbies": [],
     "favoriteSeries": [
       {
+        "id": 1,
         "name": "The big bang theory",
         "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
         "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Johnny Galecki",
+            "imagePath": "https://example.com/johnny_galecki.jpg"
+          },
+          {
+            "name": "Jim Parsons",
+            "imagePath": "https://example.com/jim_parsons.jpg"
           }
         ]
       },
       {
+        "id": 2,
         "name": "The Simpsons",
         "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
         "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Dan Castellaneta",
+            "imagePath": "https://example.com/dan_castellaneta.jpg"
+          },
+          {
+            "name": "Julie Kavner",
+            "imagePath": "https://example.com/julie_kavner.jpg"
           }
         ]
       }
@@ -133,24 +168,34 @@
     "hobbies": [],
     "favoriteSeries": [
       {
+        "id": 1,
         "name": "The big bang theory",
         "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
         "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Johnny Galecki",
+            "imagePath": "https://example.com/johnny_galecki.jpg"
+          },
+          {
+            "name": "Jim Parsons",
+            "imagePath": "https://example.com/jim_parsons.jpg"
           }
         ]
       },
       {
+        "id": 2,
         "name": "The Simpsons",
         "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
         "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Dan Castellaneta",
+            "imagePath": "https://example.com/dan_castellaneta.jpg"
+          },
+          {
+            "name": "Julie Kavner",
+            "imagePath": "https://example.com/julie_kavner.jpg"
           }
         ]
       }
@@ -164,24 +209,34 @@
     "hobbies": [],
     "favoriteSeries": [
       {
+        "id": 1,
         "name": "The big bang theory",
         "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
         "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Johnny Galecki",
+            "imagePath": "https://example.com/johnny_galecki.jpg"
+          },
+          {
+            "name": "Jim Parsons",
+            "imagePath": "https://example.com/jim_parsons.jpg"
           }
         ]
       },
       {
+        "id": 2,
         "name": "The Simpsons",
         "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
         "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Dan Castellaneta",
+            "imagePath": "https://example.com/dan_castellaneta.jpg"
+          },
+          {
+            "name": "Julie Kavner",
+            "imagePath": "https://example.com/julie_kavner.jpg"
           }
         ]
       }
@@ -195,24 +250,34 @@
     "hobbies": [],
     "favoriteSeries": [
       {
+        "id": 1,
         "name": "The big bang theory",
         "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
         "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Johnny Galecki",
+            "imagePath": "https://example.com/johnny_galecki.jpg"
+          },
+          {
+            "name": "Jim Parsons",
+            "imagePath": "https://example.com/jim_parsons.jpg"
           }
         ]
       },
       {
+        "id": 2,
         "name": "The Simpsons",
         "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
         "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Dan Castellaneta",
+            "imagePath": "https://example.com/dan_castellaneta.jpg"
+          },
+          {
+            "name": "Julie Kavner",
+            "imagePath": "https://example.com/julie_kavner.jpg"
           }
         ]
       }
@@ -226,308 +291,34 @@
     "hobbies": [],
     "favoriteSeries": [
       {
+        "id": 1,
         "name": "The big bang theory",
         "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
         "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
+            "name": "Johnny Galecki",
+            "imagePath": "https://example.com/johnny_galecki.jpg"
+          },
+          {
+            "name": "Jim Parsons",
+            "imagePath": "https://example.com/jim_parsons.jpg"
           }
         ]
       },
       {
+        "id": 2,
         "name": "The Simpsons",
         "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
         "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
         "actors": [
           {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "fullName": "Stephenie De Bernardis",
-    "semester": 4,
-    "imagePath": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fHBvcnRyYWl0fGVufDB8fDB8fHww",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "",
-        "description": "",
-        "imagePath": "",
-        "actors": [
+            "name": "Dan Castellaneta",
+            "imagePath": "https://example.com/dan_castellaneta.jpg"
+          },
           {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "fullName": "Krista Biddlecombe",
-    "semester": 3,
-    "imagePath": "https://images.unsplash.com/photo-1596075780750-81249df16d19?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fHBvcnRyYWl0fGVufDB8fDB8fHww",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "The big bang theory",
-        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
-        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      },
-      {
-        "name": "The Simpsons",
-        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
-        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "fullName": "Marrissa Rodmell",
-    "semester": 8,
-    "imagePath": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "The big bang theory",
-        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
-        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      },
-      {
-        "name": "The Simpsons",
-        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
-        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "fullName": "Base Campa",
-    "semester": 9,
-    "imagePath": "https://images.unsplash.com/photo-1475823678248-624fc6f85785?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "The big bang theory",
-        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
-        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      },
-      {
-        "name": "The Simpsons",
-        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
-        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "fullName": "Milissent Benadette",
-    "semester": 10,
-    "imagePath": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fHBvcnRyYWl0fGVufDB8fDB8fHww",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "The big bang theory",
-        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
-        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      },
-      {
-        "name": "The Simpsons",
-        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
-        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "fullName": "Vergil Bullivant",
-    "semester": 10,
-    "imagePath": "https://images.unsplash.com/photo-1522556189639-b150ed9c4330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHBvcnRyYWl0fGVufDB8fDB8fHww",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "",
-        "description": "",
-        "imagePath": "",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "fullName": "Bard Janus",
-    "semester": 10,
-    "imagePath": "https://images.unsplash.com/photo-1587397845856-e6cf49176c70?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fHBvcnRyYWl0fGVufDB8fDB8fHww",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "",
-        "description": "",
-        "imagePath": "",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "fullName": "Lin Dreinan",
-    "semester": 6,
-    "imagePath": "https://images.unsplash.com/photo-1587398099807-ff052ff03b56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "",
-        "description": "",
-        "imagePath": "",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "fullName": "Jamie McQuin",
-    "semester": 5,
-    "imagePath": "https://images.unsplash.com/photo-1602481182506-6e15d0d2e44b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "",
-        "description": "",
-        "imagePath": "",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "fullName": "Corliss Midden",
-    "semester": 10,
-    "imagePath": "https://images.unsplash.com/photo-1623580890503-9f7dca11d8ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "",
-        "description": "",
-        "imagePath": "",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "fullName": "Meyer McGarry",
-    "semester": 10,
-    "imagePath": "https://images.unsplash.com/photo-1526510747491-58f928ec870f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "",
-        "description": "",
-        "imagePath": "",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "fullName": "Isabel Rowlstone",
-    "semester": 4,
-    "imagePath": "https://images.unsplash.com/photo-1587366802383-2e3e3e07aaf5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "hobbies": [],
-    "favoriteSeries": [
-      {
-        "name": "",
-        "description": "",
-        "imagePath": "",
-        "actors": [
-          {
-            "name": "",
-            "imagePath": ""
+            "name": "Julie Kavner",
+            "imagePath": "https://example.com/julie_kavner.jpg"
           }
         ]
       }

@@ -1,3 +1,11 @@
+<a [routerLink]="'../../students/' + studentId"
+  class="inline-flex items-center ms-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg cursor-pointer hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+  Go Back
+  <svg class="w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+      d="M3 9h13a5 5 0 0 1 0 10H7M3 9l4-4M3 9l4 4" />
+  </svg>
+</a>
 <section
   class="grid grid-cols-1 grid-flow-row gap-x-3 gap-y-5 p-1 md:p-4 lg:p-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
   <ng-container *ngFor="let serie of series">
@@ -11,7 +19,8 @@
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{{serie.name}}</h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Semester: {{serie.description}}</p>
-        <a [routerLink]="serie.id.toString()"
+
+        <a [routerLink]="'details/' + serie.id.toString()"
           class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg cursor-pointer hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
           See details
           <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
