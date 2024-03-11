@@ -1,1 +1,30 @@
-<p>student-details works!</p>
+<main *ngIf="detailedStudent; else notFound"
+  class="max-w-3xl max-h-96 grid grid-cols-12 grid-rows-1 gap-x-2 shadow-lg rounded-lg overflow-hidden">
+
+  <div class="col-span-4 row-span-1 w-full h-full">
+    <img class="w-full h-full object-cover object-center" [src]="detailedStudent.imagePath"
+      [alt]="detailedStudent.fullName">
+  </div>
+
+  <div class="col-span-8 row-span-1 w-full h-full block">
+    <div class="grid grid-cols-12 grid-rows-12">
+
+      <h1 class="col-span-12 row-span-1 text-xl font-extrabold">{{detailedStudent.fullName}}</h1>
+      <p class="col-span-3 row-span-1">Semester: {{detailedStudent.semester}}</p>
+      <p class="col-span-9 row-span-1">Hobbies: {{getHobbiesList()}}</p>
+
+      <div class="col-span-12 row-span-8 grid grid-cols-3 grid-rows-1 gap-x-2">
+        <ng-container *ngFor="let serie of detailedStudent.favoriteSeries">
+          <div class="col-span-1 row-span-1 w-full h-full rounded-sm overflow-hidden cursor-pointer">
+            <img class="h-1/4 m-auto object-cover object-center" [src]="serie.imagePath" [alt]="serie.name">
+            <p class="text-center font-extralight truncate">{{serie.name}}</p>
+          </div>
+        </ng-container>
+      </div>
+    </div>
+  </div>
+</main>
+
+<ng-template #notFound>
+  <h1 class="text-5xl">Not Found</h1>
+</ng-template>

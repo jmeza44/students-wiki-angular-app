@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SideBarComponent } from './side-bar/side-bar.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -8,10 +9,12 @@ import { SideBarComponent } from './side-bar/side-bar.component';
   ],
   imports: [
     CommonModule,
+    HttpClientModule
   ],
   exports: [
+    CommonModule,
+    HttpClientModule,
     SideBarComponent,
-    CommonModule
   ]
 })
 export class SharedModule {}

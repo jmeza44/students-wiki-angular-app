@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Student } from '../../../shared/models/student.model';
+import { StudentsService } from '../../../shared/services/students.service';
 
 @Component({
   selector: 'wiki-student-details',
@@ -8,14 +9,36 @@ import { Student } from '../../../shared/models/student.model';
   styleUrl: './student-details.component.scss'
 })
 export class StudentDetailsComponent implements OnInit {
-  detailedStudentIndex: number = 0;
+  detailedStudentId: number = 0;
   detailedStudent: Student | null = null;
 
-  constructor(private activatedRoute: ActivatedRoute) {}
+  constructor(private activatedRoute: ActivatedRoute, private studentsService: StudentsService) {}
 
   ngOnInit(): void {
     this.activatedRoute.paramMap.subscribe(param => {
-      this.detailedStudentIndex = Number(param.get('index'));
+      this.detailedStudentId = Number(param.get('id'));
+      this.studentsService.getStudent(this.detailedStudentId).subscribe(student => {
+        this.detailedStudent = student ?? null;
+      });
     });
+  }
+
+  getHobbiesList(): string {
+    if (!this.detailedStudent) return "None";
+    if (this.detailedStudent.hobbies.length === 0) return "None";
+    if (this.detailedStudent.hobbies.every(hobby => hobby === "")) return "None";
+    return this.detailedStudent.hobbies
+      .filter(hobby => hobby.trim() !== "")
+      .join(', ');
+  }
+
+  getSeriesNames(): string {
+    if (!this.detailedStudent) return "None";
+    if (this.detailedStudent.favoriteSeries.length === 0) return "None";
+    if (this.detailedStudent.favoriteSeries.every(series => series.name === "")) return "None";
+    return this.detailedStudent.favoriteSeries
+      .filter(serie => serie.name.trim() !== "")
+      .map(serie => serie.name)
+      .join(', ');
   }
 }

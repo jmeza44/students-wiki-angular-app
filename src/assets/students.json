@@ -1,0 +1,536 @@
+[
+  {
+    "id": 1,
+    "fullName": "Adham Nathan",
+    "semester": 4,
+    "imagePath": "https://images.unsplash.com/photo-1570158268183-d296b2892211?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [
+      "Digital painting",
+      "Astrobeekeeping",
+      "Quantum chess",
+      "Robot salsa dancing"
+    ],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "fullName": "Halsey Beirne",
+    "semester": 1,
+    "imagePath": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "hobbies": [
+      "Quantum origami",
+      "Infinite loop debugging",
+      "Virtual reality kite flying",
+      "Nanobot gardening"
+    ],
+    "favoriteSeries": [
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "fullName": "Silas Fitzsimon",
+    "semester": 8,
+    "imagePath": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [
+      "Cloud gazing",
+      "Time-travel knitting"
+    ],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "fullName": "Marcel Biffen",
+    "semester": 3,
+    "imagePath": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "fullName": "Nat Goodenough",
+    "semester": 6,
+    "imagePath": "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "fullName": "Laurens Scothorne",
+    "semester": 1,
+    "imagePath": "https://images.unsplash.com/photo-1528892952291-009c663ce843?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "fullName": "Farris Maggill'Andreis",
+    "semester": 6,
+    "imagePath": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "fullName": "Culver Duetsche",
+    "semester": 8,
+    "imagePath": "https://images.unsplash.com/photo-1509460913899-515f1df34fea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "fullName": "Stephenie De Bernardis",
+    "semester": 4,
+    "imagePath": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "",
+        "description": "",
+        "imagePath": "",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "fullName": "Krista Biddlecombe",
+    "semester": 3,
+    "imagePath": "https://images.unsplash.com/photo-1596075780750-81249df16d19?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "fullName": "Marrissa Rodmell",
+    "semester": 8,
+    "imagePath": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "fullName": "Base Campa",
+    "semester": 9,
+    "imagePath": "https://images.unsplash.com/photo-1475823678248-624fc6f85785?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "fullName": "Milissent Benadette",
+    "semester": 10,
+    "imagePath": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "The big bang theory",
+        "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+        "imagePath": "https://www.formulatv.com/images/series/posters/100/185/dest_1.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Simpsons",
+        "description": "It is a satirical depiction of a dysfunctional middle-class American lifestyle starring the eponymous family: Homer, Marge, Bart, Lisa, and Maggie",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "fullName": "Vergil Bullivant",
+    "semester": 10,
+    "imagePath": "https://images.unsplash.com/photo-1522556189639-b150ed9c4330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "",
+        "description": "",
+        "imagePath": "",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "fullName": "Bard Janus",
+    "semester": 10,
+    "imagePath": "https://images.unsplash.com/photo-1587397845856-e6cf49176c70?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fHBvcnRyYWl0fGVufDB8fDB8fHww",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "",
+        "description": "",
+        "imagePath": "",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "fullName": "Lin Dreinan",
+    "semester": 6,
+    "imagePath": "https://images.unsplash.com/photo-1587398099807-ff052ff03b56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "",
+        "description": "",
+        "imagePath": "",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "fullName": "Jamie McQuin",
+    "semester": 5,
+    "imagePath": "https://images.unsplash.com/photo-1602481182506-6e15d0d2e44b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "",
+        "description": "",
+        "imagePath": "",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "fullName": "Corliss Midden",
+    "semester": 10,
+    "imagePath": "https://images.unsplash.com/photo-1623580890503-9f7dca11d8ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "",
+        "description": "",
+        "imagePath": "",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "fullName": "Meyer McGarry",
+    "semester": 10,
+    "imagePath": "https://images.unsplash.com/photo-1526510747491-58f928ec870f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "",
+        "description": "",
+        "imagePath": "",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "fullName": "Isabel Rowlstone",
+    "semester": 4,
+    "imagePath": "https://images.unsplash.com/photo-1587366802383-2e3e3e07aaf5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "hobbies": [],
+    "favoriteSeries": [
+      {
+        "name": "",
+        "description": "",
+        "imagePath": "",
+        "actors": [
+          {
+            "name": "",
+            "imagePath": ""
+          }
+        ]
+      }
+    ]
+  }
+]
