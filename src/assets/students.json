@@ -88,6 +88,13 @@
             "imagePath": "https://example.com/julie_kavner.jpg"
           }
         ]
+      },
+      {
+        "id": 2,
+        "name": "Malcom In The Middle",
+        "description": "A young boy in a pungent, dysfunctional family, struggles with many issues normal kids face. Malcom goes through everyday life dealing with girls, stingy neighbors, and even his own bewildered family.",
+        "imagePath": "https://m.media-amazon.com/images/M/MV5BNTc2MzM2N2YtZDdiOS00M2I2LWFjOGItMDM3OTA3YjUwNjAxXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_FMjpg_UX1000_.jpg",
+        "actors": []
       }
     ]
   },
