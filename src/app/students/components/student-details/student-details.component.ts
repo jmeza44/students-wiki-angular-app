@@ -23,22 +23,12 @@ export class StudentDetailsComponent implements OnInit {
     });
   }
 
-  getHobbiesList(): string {
+  public get getHobbiesList(): string {
     if (!this.detailedStudent) return "None";
     if (this.detailedStudent.hobbies.length === 0) return "None";
     if (this.detailedStudent.hobbies.every(hobby => hobby === "")) return "None";
     return this.detailedStudent.hobbies
       .filter(hobby => hobby.trim() !== "")
-      .join(', ');
-  }
-
-  getSeriesNames(): string {
-    if (!this.detailedStudent) return "None";
-    if (this.detailedStudent.favoriteSeries.length === 0) return "None";
-    if (this.detailedStudent.favoriteSeries.every(series => series.name === "")) return "None";
-    return this.detailedStudent.favoriteSeries
-      .filter(serie => serie.name.trim() !== "")
-      .map(serie => serie.name)
       .join(', ');
   }
 }

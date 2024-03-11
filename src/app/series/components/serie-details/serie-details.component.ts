@@ -24,4 +24,8 @@ export class SerieDetailsComponent {
       });
     });
   }
+
+  public get actorsList(): string {
+    return this.detailedSerie?.actors.map(actor => actor.name).join(', ') ?? 'None';
+  }
 }
