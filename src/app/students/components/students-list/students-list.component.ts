@@ -1,12 +1,12 @@
 import { Component } from '@angular/core';
-import { Student } from '../shared/models/student.model';
+import { Student } from '../../../shared/models/student.model';
 
 @Component({
-  selector: 'wiki-students',
-  templateUrl: './students.component.html',
-  styleUrl: './students.component.scss'
+  selector: 'wiki-students-list',
+  templateUrl: './students-list.component.html',
+  styleUrl: './students-list.component.scss'
 })
-export class StudentsComponent {
+export class StudentsListComponent {
   students: Student[] = [
     {
       fullName: "Jaime Alberto Meza Herrera",
