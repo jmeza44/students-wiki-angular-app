@@ -4,7 +4,6 @@ import { StudentsListComponent } from './components/students-list/students-list.
 import { StudentDetailsComponent } from './components/student-details/student-details.component';
 
 const routes: Routes = [
-
   {
     path: '',
     component: StudentsListComponent

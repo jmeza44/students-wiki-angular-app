@@ -5,7 +5,8 @@ const routes: Routes = [
   {
     path: '',
     loadChildren: () => import('./students/students.module').then(m => m.StudentsModule)
-  }
+  },
+  { path: 'series', loadChildren: () => import('./series/series.module').then(m => m.SeriesModule) }
 ];
 
 @NgModule({
