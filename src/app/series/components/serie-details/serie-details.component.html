@@ -1,0 +1,30 @@
+<a [routerLink]="'/series/' + detailedStudentId"
+  class="inline-flex items-center ms-3 mb-3 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg cursor-pointer hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+  Go Back
+  <svg class="w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+      d="M3 9h13a5 5 0 0 1 0 10H7M3 9l4-4M3 9l4 4" />
+  </svg>
+</a>
+
+<div *ngIf="detailedSerie; else notFound"
+  class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+  <a class="w-[336px] h-[420px] max-w-sm">
+    <img class="w-[336px] h-[420px] max-w-sm rounded-t-lg object-cover object-center" [src]="detailedSerie.imagePath"
+      [alt]="detailedSerie.name" />
+  </a>
+  <div class="p-5">
+    <a>
+      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{{detailedSerie.name}}</h5>
+    </a>
+    <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{{detailedSerie.description}}</p>
+    <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+      <span class="font-bold">Actors: </span>
+      {{actorsList}}
+    </p>
+  </div>
+</div>
+
+<ng-template #notFound>
+  <h1 class="text-5xl">Not Found</h1>
+</ng-template>
